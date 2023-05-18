@@ -1,0 +1,4 @@
+| Activity Type           | Description                                                                                                                  | Example in ShareGPT                             |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Suggest best practices  | Given a software design, offer suggestions for refactoring (e.g., for applying design patterns)                             | [BdaI4eP](https://sharegpt.com/c/BdaI4eP)        |
+| Simulation              | Simulate how a system would work before implementing it (e.g., simulate an API)                                             | [Ik2FYBZ](https://sharegpt.com/c/Ik2FYBZ) (2)    |
