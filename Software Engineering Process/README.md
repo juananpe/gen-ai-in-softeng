@@ -1,0 +1,4 @@
+| Activity Type                             | Description                                                                                                              | Example in ShareGPT                            |
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Provide auto evaluation quizzes           | Given the following text, create a quiz of 5 questions. Each question will have 4 possible answers from which only one will be correct. Explain the correct solution. Here is the text: [provide the text] | [Tp9PQmi](https://sharegpt.com/c/Tp9PQmi)       |
+| Help students to understand complex topics | Gradually adjusting the difficulty of the explanation "explain it to a 13 years old student"                            | [gNBIRgt](https://sharegpt.com/c/gNBIRgt)                               |
