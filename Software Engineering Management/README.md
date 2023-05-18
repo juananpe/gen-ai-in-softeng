@@ -1,0 +1,3 @@
+| Activity Type            | Description                                                                                                              | Example in ShareGPT                            |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Help students to estimate | Estimating effort and cost is a difficult task for any engineer, and even more so for students with little experience.  | [Ik2FYBZ](https://sharegpt.com/c/Ik2FYBZ) (4)   |
