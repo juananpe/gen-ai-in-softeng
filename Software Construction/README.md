@@ -1,0 +1,4 @@
+| Activity Type                       | Description                                                                                                                            | Example in ShareGPT                               |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| Provide challenges                  | Provide an incomplete solution to a problem and ask/challenge the student to fill-in the gaps.                                          | [zvqambb](https://sharegpt.com/c/zvqambb)          |
+| Generate new educational material    | Self-taught students or learners with a desire to learn more can ask the GenAI to create new explanations for unknown or not well-known material.      | [Ik2FYBZ](https://sharegpt.com/c/Ik2FYBZ) (3)      |
