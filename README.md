@@ -13,7 +13,7 @@ To contribute, you can:
 - Help review and merge pull requests 
 - Assist with curating and reorganizing the prompts 
 
-Please check the [Contributing Guidelines](contributing.md) for more details on how to contribute.
+Please check the [Contributing Guidelines](CONTRIBUTING.md) for more details on how to contribute.
 
 The prompts in this repository are provided as inspiration and examples. Educators are encouraged to adapt them as needed to suit their particular learning objectives, student levels, and tool preferences.
 
