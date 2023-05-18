@@ -1,0 +1,4 @@
+| Activity Type            | Description                                                                                                               | Example in ShareGPT                            |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Detect bugs              | Show bugged source code to students and to GenAI. Ask them to detect the bug and to explain how to solve it. Compare solutions.  | [cOF9ak8](https://sharegpt.com/c/cOF9ak8)    |
+| Discuss source code      | Discuss source code from the point of view of maintenance                                                                 | [YwxmA0a](https://sharegpt.com/c/YwxmA0a)            |
