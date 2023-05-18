@@ -1,0 +1,3 @@
+| Activity Type                                | Description                                                                        | Example in ShareGPT                            |
+|----------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------|
+| Stimulate discussions on related topics        | E.g. suggesting open questions about legal issues in software                      | [Ik2FYBZ](https://sharegpt.com/c/Ik2FYBZ)                 (6)                                     |
