@@ -1,0 +1,3 @@
+| Activity Type                    | Description                                                                                                                 | Example in ShareGPT                            |
+|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Bootstrap testing code           | Ask the students to generate testing code for a method. Then ask GenAI to do the same. Compare both solutions.               | [xZzqsqd](https://sharegpt.com/c/xZzqsqd)       |
