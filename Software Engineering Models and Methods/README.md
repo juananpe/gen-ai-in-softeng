@@ -1,0 +1,3 @@
+| Activity Type                        | Description                                                                                                    | Example in ShareGPT                            |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Suggest an agenda of questions        | GenAI can help the scrum master (a role played by a student) to prepare daily scrum meetings in advance        | [Ik2FYBZ](https://sharegpt.com/c/Ik2FYBZ) (5)   |
