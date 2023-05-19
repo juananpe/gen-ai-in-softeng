@@ -8,8 +8,7 @@ There are __two ways__ to suggesting new prompts for the repository. Choose one.
 
 ### Open a new issue
 
-This is the easiest way for you. Just open a new issue following this template:
-https://github.com/juananpe/gen-ai-in-softeng/issues/new/choose
+This is the easiest way for you. Just [open a new issue following this template](https://github.com/juananpe/gen-ai-in-softeng/issues/new?assignees=&labels=&projects=&template=suggest-a-new-prompt.md&title=%5BPrompt%5D).
 
 ### Open a pull request with:
 
