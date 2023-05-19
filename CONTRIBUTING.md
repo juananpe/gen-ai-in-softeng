@@ -6,10 +6,12 @@ We welcome contributions from educators and others in the form of new prompts, f
 
 To add new prompts to the repository, please open a pull request with:
 
-- The text of the prompt 
-- The knowledge area(s) and topic(s) the prompt covers according to SWEBOK 
+- The knowledge area(s) the prompt covers according to SWEBOK 
+- Activity Type	(role play, simulation, review, feedback, brainstorm, ...) See the examples in each knowledge area
+- A short description
 - The generative AI model(s) the prompt is designed for (Claude, ChatGPT, Bard, etc.)
 - A brief explanation of how the prompt can be used for teaching and its intended outcomes or benefits
+- A link to ShareGPT with an example of a conversation where you used that prompt
 
 Prompt contributions will be reviewed and merged at the discretion of repository maintainers based on quality, relevancy, and potential usefulness for educators. 
 
