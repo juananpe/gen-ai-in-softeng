@@ -4,7 +4,16 @@ We welcome contributions from educators and others in the form of new prompts, f
 
 ## Proposing new prompts
 
-To add new prompts to the repository, please open a pull request with:
+There are __two ways__ to suggesting new prompts for the repository. Choose one.
+
+### Open a new issue
+
+This is the easiest way for you. Just open a new issue following this template:
+https://github.com/juananpe/gen-ai-in-softeng/issues/new/choose
+
+### Open a pull request with:
+
+This is the easiest way for us:
 
 - The knowledge area(s) the prompt covers according to SWEBOK 
 - Activity Type	(role play, simulation, review, feedback, brainstorm, ...) See the examples in each knowledge area
