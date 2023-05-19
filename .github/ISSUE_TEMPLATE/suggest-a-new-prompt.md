@@ -23,4 +23,4 @@ Example: Claude, ChatGPT, Bard, ...
 **A link to ShareGPT with an example of a conversation where you used that prompt**
 This field is optional. You can use any other prompt gathering service instead of ShareGPT. Example: https://sharegpt.com/c/iEGNTnR
 
-For the knowledge area(s) the prompt covers according to SWEBOK, use issue labels.
+Assign proper issue labels to specify the SWEBOK knowledge area(s) the prompt covers.
