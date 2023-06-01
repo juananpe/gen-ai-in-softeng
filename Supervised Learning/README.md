@@ -1,0 +1,3 @@
+| Activity Type           | Description                                                                                                                  | Example in ShareGPT                                     |   Author      |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------
+| Coaching                | Prompt the LLM with some teaching instructions so that it guides the student in a personalized manner as a coach.            | [issue #2](https://github.com/juananpe/gen-ai-in-softeng/issues/2)  | [Xabier B.](https://github.com/xabier)
